@@ -17,7 +17,7 @@ const audioPlay = new Audio("./sons/play.wav");
 const audioPausa = new Audio("./sons/pause.mp3");
 const audioTempoFinalizado = new Audio("./sons/beep.mp3");
 musica.loop = true;
-let tempoDecoridoemSegundos = 5;
+let tempoDecoridoemSegundos = 1500;
 let intervaloId = null;
 musicaFocoInput.addEventListener("change", () => {
   if (musica.paused) {
