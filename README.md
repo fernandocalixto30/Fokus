@@ -1,2 +1,2 @@
 - Este site é um aplicativo voltado para aumentar a produtividade e o foco, fornecendo ferramentas para gerenciar tarefas e períodos de trabalho concentrado.
-- https://66367995de34912249d88556--clever-bombolone-777ebb.netlify.app/
+- https://66368282e4a6422682d2a5f8--rad-daffodil-b3e007.netlify.app/
